@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "91160396303",
+    "project_id": "onfully-business",
+    "storage_bucket": "onfully-business.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:91160396303:android:e0e19e8014fc7e315d197a",
+        "android_client_info": {
+          "package_name": "com.onshoppy.ecom_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "91160396303-irouc8g3ngg986tdluj75hkfpu803j6e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmDfwM__llyaU1mOHMqLwD7xVpupNmHiA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "91160396303-irouc8g3ngg986tdluj75hkfpu803j6e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
